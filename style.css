@@ -1,8 +1,17 @@
 ul {
-    color: red;
+    text-align: center;
 }
 
 h1 {
     font-weight: bold;
     font-size: 50px;
+    text-align: center;
+    color: darkgoldenrod
+}
+
+li {
+    display: inline;
+    border: solid;
+    margin: 100px;
+    padding: 5px;
 }
